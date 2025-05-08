@@ -1,9 +1,6 @@
-What is the eProject.Onion Project?
+CoffeeShop Website — Graduation Thesis?
 =====================
-The eProject.Onion Project is a open-source project written in .NET Core
-
-The goal of this project is implement the most common used technologies and share with the technical community the best way to develop great applications with .NET
-
+CoffeeShop Website is a web-based application developed as part of the Graduation Thesis for the Bachelor’s degree in Information Technology. The purpose of this project is to design and implement an online platform for selling coffee products, offering users a modern shopping experience and providing administrators with tools for managing products, orders, and customer
 ## How to use:
 - You will need the latest Visual Studio 2022, the latest .NET Core SDK and SQL Server 2019.
 - The latest SDK and tools can be downloaded from https://dot.net/core.
